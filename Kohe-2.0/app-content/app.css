@@ -1,0 +1,42 @@
+﻿.page{
+    background-color:#EEEEEE;
+}
+.login{
+    background-color:WHITE ;
+    margin-top: 150px;
+}
+.logo{
+    margin-top:10px ;
+    margin-left:160px ;
+    width: 30%;
+    height:10%
+}
+.copy{
+    margin-top:10px ;
+    margin-left:130px ;
+}
+
+nav ul li {
+       display:inline-block;
+       margin-left:20px;
+   height:20px;
+}
+
+.flash{
+    margin-top: 30px;
+}
+.orderedlist{
+    background-color: antiquewhite;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.rlg{
+    width: 20%;
+    height:50%;
+    margin-left:280px ;
+    margin-top: 10px;
+}
+.hi{
+    margin-top: 60px;
+    margin-left: 150px;
+}
